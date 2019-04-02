@@ -1,0 +1,20 @@
+{
+  "name": "prismagram",
+  "version": "1.0.0",
+  "description": "Instagram clone coding with React / React Native / Express",
+  "main": "index.js",
+  "repository": "https://github.com/DaeukKimHry/clone-instagram",
+  "author": "Daeuk Kim <daekup2000@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "dotenv": "^7.0.0",
+    "graphql-yoga": "^1.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  }
+}
