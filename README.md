@@ -1,6 +1,8 @@
 # clone-instagram
 Instagram clone coding with React / React Native / Express / Prisma
 
+ # git add . -> git commit -m"message" -> git push origin branch
+
 <div> nodemon.json의 ext은 extention으로 확장 프로그램을 등록하는것 </div>
 <div> package.json의 script는 해당 명령어로 다음의 내용을 자동으로 실행하게 해주는것 </div>
 
